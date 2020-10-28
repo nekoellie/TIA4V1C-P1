@@ -1,0 +1,9 @@
+Wat is het voordeel van Java leren / gebruiken?
+Een groot voordeel als je Java als OOP (Object-Oriented Programming een programmeertaal die gebruikt maakt van objecten in plaats van acties. 
+En gebruik maakt van gegevens in plaats van logica om applicaties en computerprogramma's te ontwerpen (tegenwoordig ondersteunen de meetse programmeertalen OOP)). 
+Leert en begrijpt, zul je zien dat het leren van een andere programmeertaal je heel makkelijk afgaat. 
+Dit is eigenlijk het grootste voordeel. Naast dat wordt Java ook bij veel verschillende bedrijven gebruikt, waardoor het zoeken naar een baan gemakkelijk afgaat.
+
+Waarvoor wordt Java gebruikt?
+Java wordt voornamelijk gebruikt voor apps/computerspellen denk bijvoorbeeld aan Minecraft of je mobiel zoals het besturingssysteem Android, althans is de hele OS gebaseerd op java zelf. Er worden ook opensourcebibliotheken ontwikkeld, zoals de Lightweight Java Game Library (LWJGL) en jMonkeyEngine. Lightweight Java Game Library is een open source programma waarin je jouw eigen game in kan maken. 
+En jMonkeyEngine is een engine voor het ontwikkelen van 3D-computerspellen in Java.
