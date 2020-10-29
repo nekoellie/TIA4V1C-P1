@@ -1,0 +1,31 @@
+Wat is JavaScript?
+Naast HTML en CSS is JavaScript een van de belangrijkste programmeertalen van het wereldwijde web. 
+Het is een veel gebruikte scripttaal (*) om webpagina’s meer levendig en interactief te maken.
+
+
+Wat doet JavaScript?
+JavaScript kan HTML en CSS programma’s updaten en veranderen. Het kan berekeningen maken, data manipuleren en valideren. 
+De programmering bepaalt of dat dit alles automatisch gebeurt of getriggerd wordt door een handeling van de bezoeker. 
+Dit laatste wil zeggen, een actie van de bezoeker geeft de aanzet voor de uitvoering van het script en veroorzaakt een ‘gebeurtenis’ op de webpagina.
+Bijvoorbeeld: Bij een muisklik of bij het hoveren over een knop door de bezoeker veranderen kleuren op de webpagina, of worden teksten uitgerold (>>> lees meer, menu dropdown), verschijnen pop-ups of worden animaties of effecten gestart.  
+Of na het invullen van getallen worden berekeningen gemaakt…
+Met alleen maar HTML en CSS kan dat niet en blijft een webpagina star en onveranderlijk.
+
+Is javascript Client side en wat betekend dat?
+JavaScript is evenals HTML en CSS een “client-side” script-taal. 
+Dit betekent dat het script als code wordt gedownload naar de browser van de bezoeker en daar wordt uitgevoerd. 
+Dit in tegenstelling tot “server-side” scripts zoals PHP. Daar gebeurt de processing binnen de server. 
+Pas na uitvoering van de code wordt het resultaat gedownload naar de browser van de bezoeker.
+
+Javascript ≠ Java
+De programmeertalen van JavaScript en Java worden nogal eens met elkaar verward omdat de naam en de syntaxis sterk op elkaar lijken. 
+Die gelijkenis is echter oppervlakkig. Het zijn heel verschillende talen.
+
+De verschillen tussen Java en Javascript
+
+Java is een programmeertaal. Javascript is een scripttaal.
+Java is server-side, JavaScript is client-side.
+Java code moet, voordat je ze kan gebruiken, eerst gecompileerd worden. Javascript is gewoon platte tekst.
+Java applicaties kunnen zowel in een virtuele machine als in een browser draaien. Javascript code draait alleen in een browser.
+Een gecompileerd Java programma krijgt de extensie .class. Een Javascript heeft de extensie .js.
+Java is ontwikkeld door Sun Micro Systems, JavaScript door Netscape.

@@ -1,0 +1,37 @@
+Wat is python?
+Python is een krachtige programmeertaal die makkelijk te leren is en waar je van alles mee kunt maken. 
+Ook voor beginnende developers. Het wordt bij ons op school gebruikt om apps te maken en functies te programeren. Het wordt, zoals later uitgelegd, vooral gebruikt omdat je er functies mee kan schrijven die zeer ingewikkelde berekeningen kunnen uitvoeren en voorspellingen kunnen creeeren, 
+hierom wordt het gebruikt door zeer veel bedrijvend.
+
+
+Waar wordt Python gebruikt?
+Instagram: Een van de grootste social media bedrijven met meer dan 400 miljoen gebruikers per dag, op vrijwel elke smart phone aanwezig. 
+Instagram heeft voor Python gekozen vanwege de eenvoud en het praktische karakter. 
+De hele backend waarin alle verzoeken vanuit de applicatie verwerkt worden is in Python gemaakt.
+
+Uber: Uber heeft de uitdaging om enorm veel berekeningen uit te voeren zoals het voorspellen van verwachtte aankomsttijden en het matchen van klanten en chauffeurs. 
+Dit doet Uber met Python omdat de taal goed met deze berekeningen om kan gaan. 
+De eenvoudigheid van Python is ook belangrijk voor Uber. Hierdoor kunnen nieuwe software developers makkelijker gevonden worden en kunnen ze eerder aan de slag.
+
+Spotify: De grootste aanbieder van muziek streaming ter wereld kiest voor Python vanwege de gunstige ontwikkelsnelheid en de uitgebreide mogelijkheden tot data analyse. 
+Naast data analyse gebruikt Spotify Python ook voor de backend van hun applicatie.
+
+Deze opdracht: Bij deze opdracht moest ik (de schrijver) veel dingen opzoeken over bepaalde termen. 
+Om mijn leven makkelijker te maken heb ik een kleine programma geschreven waarbij ik alleen maar een keyword moest in typen en dan gaf hij mij automatisch 10 linkjes naar artikelen over het onderwerp.
+
+
+Wat maakt Python mogelijk?
+Technisch gesproken is Python een high-level, geïnterpreteerde, object-georiënteerde, interactieve programmeertaal. Dit betekent het volgende:
+High-level: Hierdoor is Python zo goed als op elke computer en besturingssysteem te gebruiken. 
+Ook staat dit voor de gemakkelijke leesbaarheid en de bijna menselijke vorm van code.
+
+Geïnterpreteerd: Dit betekent dat een Python script direct gebruikt kan worden, zonder dat het eerst in een andere taal omgezet hoeft te worden. 
+Bij andere programmeertalen is dit soms wel het geval. 
+Het voordeel hiervan voor Python is dat elk stuk geschreven code snel te testen is, waardoor aanpassingen en toevoegingen binnen de code eenvoudig te valideren zijn.
+
+Object-georiënteerd: Het is mogelijk om objecten aan te maken en deze eigenschappen te geven. 
+De eigenschappen kunnen bestaan uit data maar ook uit functies. 
+Hierdoor kan makkelijk nieuwe data toegevoegd worden zonder dat er specifieke code voor hoeft worden geschreven. Dit maakt het geheel weer compacter en begrijpelijker.
+
+Interactief: Vanuit de command prompt kun je direct met de zogeheten Python ‘interpreter’ communiceren en de volledige functionaliteit gebruiken, 
+zonder dat je een script hoeft te schrijven.

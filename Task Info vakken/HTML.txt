@@ -1,0 +1,10 @@
+Waarvoor wordt HTML gebruikt?
+HTML ook wel HyperText Markup Language is een computertaal dat voornamelijk bedoeld is voor het wereldwijde web. 
+Het is de standaard opmaaktaal voor webpagina's. 
+Documenten in HTML kunnen geopend en gelezen worden door een webbrowser om vervolgens als webpagina weergegeven te worden. 
+HTML-documenten bevatten op de eerste plaats semantische structuur en tekstuele inhoud van een webpagina; de opmaak en visuele weergave kunnen er ook in worden beschreven, 
+maar daar wordt tegenwoordig gewoonlijk CSS voor gebruikt.
+
+Wat is belangrijk bij het leren van HTML?
+Dat je de basis kent en kan werken met CSS en weet wat alle codes inhoud en wat het uitvoert. 
+Het wordt ook vooral aangeraad om zelf een keer te beginnen met het creëren van een website.

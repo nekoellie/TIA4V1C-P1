@@ -1,0 +1,37 @@
+Waar staat CSS voor?
+Cascading Style Sheets, afgekort CSS is een programeertaal die zorgt voor de opmaak van HTML bestanden.
+Aan de basis van elke pagina op een website zit een HTML bestand, dat zorgt voor alle inhoud die je te zien krijgt (tekst, afbeeldingen, links..). 
+Je denkt nu misschien, waarom heb ik CSS dan nodig? CSS zorgt er namelijk voor dat je die HTML code vorm kan geven.
+
+
+Hoe werkt CSS precies?
+CSS zorgt dus voor de opmaak, maar om elementen verschillend op te maken moet er natuurlijk wel een manier zijn om je op specifieke elementen te richten. 
+Je kunt dit doen door de HTML codes die gebruikt worden.
+Elk HTML element is via CSS apart vorm te geven. 
+Daarnaast worden vaak ook classes (class=) en identificeerders (id=) gebruikt om verschillende secties vorm te geven met CSS. 
+Zo kun je dezelfde HTML elementen op verschillende manieren vormgeven, afhankelijk van waar het op de website staat.
+
+
+Wat zijn de voordelen van het gebruiken van CSS?
+Je stelt jezelf misschien de vraag 'Moet ik dan voor elk html bestand van mijn website een css bestand aanmaken?' Het antwoord is nee. 
+Je kan doormiddel van CSS de opmaak en vormgeving vanuit één bestand regelen voor de hele website. 
+Dit betekent dat je vanuit een style sheet niet alleen bijvoorbeeld de kleur en het lettertype van de tekst kunt bepalen, maar de vormgeving, opmaak en presentatie van de totale website. 
+Kortom, de code nodig voor het design van de website kan volledig gescheiden worden van de HTML-code.
+
+Maar er zitten nog meer voordelen aan het gebruiken van CSS:
+
+Doormiddel van CSS kan het design van de pagina en plaatsing van de pagina elementen tot op de pixel nauwkeurig worden uitgevoerd. 
+Iets wat webdesigners zeker zal aanspreken.
+
+Doordat alle code voor het vormgeven van de website ondergebracht zijn in één bestand, 
+hoeven alleen maar veranderingen te worden aangebracht in dat bestand om een wijziging in de vormgeving voor de hele website door te voeren. 
+Dit scheelt niet alleen veel tijd, maar verkleind tevens de kans op het maken van fouten.
+
+CSS style sheets worden door alle webbrowsers uitstekend ondersteund. 
+Misschien inmiddels zelfs al beter dan de ouderwetse methode van opmaak in de HTML-code zelf.
+
+Door het toepassen van Cascading Style Sheets is het heel eenvoudig alle pagina's van de website er precies hetzelfde uit te laten zien. 
+Iets dat als erg aangenaam zal worden ervaren door de bezoekers van uw website.
+
+Wanneer de code voor vormgeving van de website ondergebracht wordt in een style sheet, is niet alleen voor u de HTML-code van u website beter leesbaar en begrijpbaar, 
+maar ook voor de zoekmachines. Overzichtelijke code wordt ook door de zoekmachines zeer gewaardeerd en zullen zeker leiden tot betere resultaten in de zoekmachine.

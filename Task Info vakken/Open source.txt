@@ -1,0 +1,9 @@
+Wat is Open Source
+Dit is software waarvan de broncode (sources) is gepubliceerd en vrij beschikbaar is voor iedereen. 
+Iedereen kan en mag deze software kopiëren, aanpassen, aanvullen en verspreiden zonder kosten aan auteursrechten en of toeslagen. 
+Een prachtige verklaring, maar nu de taal van een leek. Een systeem (software) waarmee iedereen kan werken!
+Of iedereen er daadwerkelijk mee kan werken is de vraag. 
+Het vraagt wel om bepaalde kennis. Het is eerder systeem (software) waarmee iedereen mag werken.
+
+Wat kunnen de nadelen zijn van open source
+Er zijn geen nadelen! Toch? Net als bij iedere andere van software zijn er voordelen en nadelen verbonden aan het gebruik van open source CMS oplossingen.
