@@ -1,0 +1,36 @@
+Wat is php?
+PHP staat voor Hypertext Preprocessor en het is een belangrijke taal voor het maken van dynamische webpagina’s. 
+De taal wordt heel veel gebruikt, het ligt aan de basis van WordPress en ook Facebook maakt er gebruik van. 
+Super fijn is dat het heel gestructureerd is waardoor het voor een beginner overzichtelijk is, wel is het handig dat je dan al verstand hebt van HTML, CSS en JavaScript. 
+Dat zijn namelijk de talen waarmee je al heel veel van je website kunt maken, PHP zorgt dan voor nog verdergaande functionaliteiten. 
+Wat PHP aan je webpagina toevoegt heeft te maken met de achterliggende server, PHP kan bijvoorbeeld documenten bewerken op de server. 
+PHP kan eigenlijk alles wat een CGI programma kan, waarbij CGI staat voor Common Gateway Interface. 
+Handig om te weten: CGI is eigenlijk de verbinding tussen webpagina’s en databases.
+
+
+Wat voor porgrammeertaal is PHP?
+PHP is geen programmeertaal. 
+PHP is een serverside scripttaal. PHP wordt gebruikt om webpagina’s in te delen en tekst weer te geven. 
+Dat is ook precies wat HTML doet, maar PHP heeft een belangrijke toegevoegde waarde.
+
+
+Statisch vs. Dynamisch
+HTML zorgt voor de tekstindeling van webpagina’s op een statische manier. 
+Dat betekent dat je jouw tekst eenmalig met HTML kunt opmaken en wanneer je de tekst wilt veranderen je opnieuw aan de slag moet met HTML voor de nieuwe tekst. 
+Daar komt PHP om de hoek kijken om het aanpassen van je website eenvoudiger te maken. PHP is namelijk dynamisch van aard. 
+Het genereert op jouw server (bijvoorbeeld) een HTML code die vervolgens op de webpagina zichtbaar is voor de eindgebruiker. 
+Wat daarbij voor sommige van toegevoegde waarde is, is dat de originele code dus niet zichtbaar zal zijn voor buitenstaanders.
+
+
+Waarom wil je PHP gebruiken?
+PHP werkt als een Common Gateway Interface programma, dat betekent dat je er dus data mee kunt verzamelen en cookies mee kunt versturen en ontvangen. 
+Bovendien kan je er dus dynamische pagina content mee maken. 
+PHP is uniek in het server-side en command line scripting.
+PHP kan gebruikt worden op alle operating systems, dus of je nu Windows, macOS, Linux of minder gangbare varianten gebruikt; PHP werkt altijd.
+Daarnaast kan PHP ook met ongelofelijk veel databases samenwerken. 
+Zo is er bijvoorbeeld de Open Database Connection extension om met elke database naar keuze te kunnen werken.
+
+
+Wat heb je nodig om aan de slag te kunnen met PHP?
+Ten eerste heb je een webserver die PHP ondersteunt en een database nodig, 
+daarna installeer je PHP (Wil je gewoon graag met PHP aan de slag dan is het mogelijk om dit allemaal gewoon op je eigen computer te laten draaien).

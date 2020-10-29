@@ -1,0 +1,18 @@
+Wat is wordpress?
+
+Je kunt WordPress in één zin uitleggen als volgt: 
+WordPress is een systeem om een website, blog of een webshop mee te beheren zonder dat je hiervoor (veel) technische kennis nodig hebt. 
+Hoewel WordPress draait op de programmeertaal PHP, hoef je zelf geen regel PHP te schrijven als je een website wilt bouwen met WordPress.
+Doordat WordPress zo eenvoudig is in gebruik, wordt het tegenwoordig enorm veel gebruikt voor het maken van websites. 
+Sterker nog: méér dan 30 procent van het hele internet gebruikt WordPress!
+
+
+WordPress is open source (en gratis)
+WordPress is open source(maak hier een href van die verwijst naar de open source pagina), wat inhoudt dat iedereen de code van WordPress kan inzien, aanpassen en verspreiden. 
+Je kunt volledig gratis een kopie van WordPress downloaden op WordPress.org. Hier mag je vervolgens mee doen wat je wilt.
+
+
+Wie gebruikt WordPress?
+Een logische vraag is: als WordPress zo geweldig en populair is, wie gebruikt WordPress dan? 
+Er zijn nogal wat websites die WordPress gebruiken. 
+Zoals bijvoorbeeld: het Witte Huis, The Rolling Stones.
