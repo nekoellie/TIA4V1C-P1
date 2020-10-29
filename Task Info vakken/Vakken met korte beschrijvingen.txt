@@ -1,0 +1,40 @@
+Deze vakken kunnen op 1 pagina als "overige vakken"
+L&B , Rekenen , Engels , IT Essentials , Networking Essentials , Nederlands , Scrum / Git
+
+L&B , Rekenen en Engels staan bij xynthia
+
+
+IT Essentials: 
+Wat is IT essentials?
+IT essentials Is het vak waarbij we het hebben over alle computer componenten over hoe je het best kan onderhouden, 
+waarvoor de computer componenten gebruikt wordt en welke component je het best kan gebruiken voor een bepaalde build/bouw van een computer.
+
+
+Networking Essentials:
+Wat is Networking Essentials?
+Networking Essentials is het vak waarbij we leren hoe netwerken werken zoals WiFi (draadloos internet), ethernet (via kabel), 
+hoe je een veilige netwerk kan maken met firewalls/WPS (Wifi Protected Setup is een methode om gemakkelijk apparaten met elkaar te verbinden via wifi) en UPnP (UPnP staat voor Universal Plug and Play. 
+Met UPnP verbinden apparaten zonder lastige configuratie (een manier waarop iets is opgebouwt) zoals het handmatig openzetten van poorten.
+
+
+Scrum / Git
+Wat is Scrum?
+Scrum is een manier om op een flexibele manier (software) producten te maken. 
+Er wordt gewerkt in multidisciplinaire teams die in korte sprints, met een vaste lengte van 1 tot 4 weken, werkende (software) producten opleveren. 
+Bij een scrum probeert een team samen een doel te bereiken en de wedstrijd te winnen. 
+Samenwerking is heel belangrijk en men moet snel kunnen inspelen op veranderende omstandigheden. 
+Scrum wordt vaak gebruikt bij producten waarvan de klant c.q. 
+gebruiker nog niet goed weet wat hij wil en waarbij men al doende leert om de eisen en wensen beter te beschrijven en in bruikbare producten om te zetten. 
+Vaak weet men pas wat men wil als men het eerste product, het prototype, ziet en dan worden alsnog de eisen aangepast. 
+Scrum heeft de flexibiliteit om met laat wijzigende eisen en wensen om te gaan. Scrum valt onder de Agile-softwareontwikkeling.
+
+Wat is Git?
+Git is een vrij gedistribueerd versiebeheersysteem. 
+Het wordt ook wel een softwarebroncode-managementproject (broncode is het leesbare text die geschreven wordt door de programmeur) genoemd. 
+De nadruk van Git ligt op de snelheid. Git is oorspronkelijk gemaakt door Linus Torvalds voor de ontwikkeling van de Linuxkernel. 
+Iedere Git-werkmap bevat de volledige repository (een opslag plaats van software) met een compleet historisch overzicht en volledige trackingcapaciteiten. 
+Git is niet afhankelijk van een gemeenschappelijke locatie of een centrale server zoals een Concurrent Versions System (CVS) of Subversion (SVN).
+
+Nederlands:
+Waarom hebben de leerlingen Nederlands?
+Omdat Nederlands een handige taal is om te hebben omdat we daarmee grootendeels naar elkaar communiceren. in Nederland.
